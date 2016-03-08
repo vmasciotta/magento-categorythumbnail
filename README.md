@@ -1,1 +1,1 @@
-# magento-categorythumbnail
+# Magento Category Thumbnail
