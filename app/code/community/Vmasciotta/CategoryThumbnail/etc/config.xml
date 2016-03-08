@@ -10,7 +10,7 @@
             <categorythumbnail_setup>
                 <setup>
                     <module>Vmasciotta_CategoryThumbnail</module>
-                    <class>Mage_Core_Model_Resource_Setup</class>
+                    <class>Mage_Catalog_Model_Resource_Setup</class>
                 </setup>
             </categorythumbnail_setup>
         </resources>
