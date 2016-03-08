@@ -1,6 +1,7 @@
 <?php
-$installer->startSetup();
 $installer = $this;
+$installer->startSetup();
+
 
 $entityTypeId     = $installer->getEntityTypeId('catalog_category');
 $attributeSetId   = $installer->getDefaultAttributeSetId($entityTypeId);
